@@ -3,6 +3,11 @@
 **`Algorithmic Thinking (Student/Programmer/Learner)`**
 
 I am a Computer Science student at UNAM's Faculty of Science, where I aspire to grow as a programmer and learn new things every day.
+<p align = "center">
+<img alt="MyGif" width="300px" style="padding-right:10px;" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
+</p>
+<br />
+
 ---
 ### 💻 Languages and Tools
 
