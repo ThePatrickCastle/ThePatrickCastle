@@ -21,7 +21,5 @@ I am a Computer Science student at UNAM's Faculty of Science, where I aspire to 
 <br />
 
 #
-
-<details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+ <summary><h3>🎮 My Favorite Coding Story</h3></summary>
   When I was eight years old, I used to play video games with my sister. However, I was not good at it and it made me realize that I needed to change the way I saw the world to solve some problems. I started by creating my own video game in Scratch and it taught me two valuable lessons. First, my sister was better than me at video games, and second, I found my love for programming. I believe that communicating through just a few lines of code can change the world and create solutions that are needed. That's why I started my journey in computer science.
