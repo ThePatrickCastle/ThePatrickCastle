@@ -2,7 +2,7 @@
 
 **`Algorithmic Thinking (Student/Programmer/Learner)`**
 
-I am a Computer Science student at UNAM's Faculty of Science, where I aspire to grow as a programmer and learn new things every day.
+I am a Computer Science student who is passionate about learning and problem-solving. I have over 5 years of experience working with several programming languages including Java, Python, and C. I have implemented various automation solutions ranging from searching for sales to planning entire vacations based on web browsing. My journey in Computer Science began at UNAM with the aim of gaining knowledge in mathematics and computer theory to enable me to create original and innovative solutions in today's world.
 <p align = "center">
 <img alt="MyGif" width="300px" style="padding-right:10px;" src="https://qph.cf2.quoracdn.net/main-qimg-03a4a5f034bf0bafa661fd8a8aabedc8"/>
 </p>
