@@ -1,4 +1,4 @@
-#  ⚾ Patrick Castle
+#  Patricio Salvador González Castillo
 
 **`Algorithmic Thinking (Student/Programmer/Learner)`**
 
